@@ -13,7 +13,7 @@ Secondary-school student in **Corfu, Greece**, focused on **mathematics, physics
 
 - 🏆 **1st Prize — "Aristarchos" Panhellenic Physics Competition ([Union of Greek Physicists / ΕΕΦ](https://www.eef.gr)), 3rd & Final Phase** (2026) · ranked **16th nationally**
 - 🏎 **[F1 in Schools](https://www.f1inschools.com) — 2nd place, North-Greece National Finals**, Thessaloniki (2026), STEM engineering competition (team Gorgon)
-- 🎤 **TED-Ed Student Talk — ["One Shot, One Choice"](https://youtu.be/fY9rNBrKUzk)** (in English), TED-Ed Student Conference, Thessaloniki (April 2026) — [watch the talk](https://youtu.be/fY9rNBrKUzk)
+- 🎤 **TED-Ed Student Talk — ["One Shot, One Choice"](https://youtu.be/fY9rNBrKUzk)** (in English), TED-Ed Student Conference, Thessaloniki (April 2026), prepared through the TED-Ed Student Talks programme at [Andrioti School](https://www.andrioti.gr) — [watch the talk](https://youtu.be/fY9rNBrKUzk)
 - ➗ **[Hellenic Mathematical Society](https://www.hms.gr) competition distinctions (έπαινοι)**: "Thales" (2025), "Pythagoras" (2025), "Kostas Zervos" (2024)
 - 🎖 **Award of Progress (Αριστείο Προόδου)** — Greek Ministry of Education excellence award (2025)
 - ♟ Competitor, **Panhellenic Student Chess Championships**
@@ -38,7 +38,7 @@ Secondary-school student in **Corfu, Greece**, focused on **mathematics, physics
 
 ## Interests
 
-Basketball (club player, regional development-squad call-ups) · chess · piano
+**Basketball** — club player with **Ν.Α.Ο. Nafsithoos (Ναυσίθοος), Corfu** since 2023, competing across three age groups including the men's squad, with regional (ΕΣΚΑΒΔΕ) development-squad call-ups · **chess** · **piano**
 
 ---
 

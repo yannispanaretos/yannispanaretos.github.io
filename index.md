@@ -11,8 +11,7 @@ Secondary-school student in **Corfu, Greece**, focused on **mathematics, physics
 
 ## Achievements & Distinctions
 
-- 🏆 **1st Prize — "Aristarchos" National Astronomy Competition, Final Phase** (2026) · ranked **16th nationally**
-- 🔭 **National Physics Competition (Hellenic Physical Society)** — reached the **3rd and final phase** (2025–26)
+- 🏆 **1st Prize — "Aristarchos" Panhellenic Physics Competition (Union of Greek Physicists / ΕΕΦ), 3rd & Final Phase** (2026) · ranked **16th nationally**
 - 🏎 **F1 in Schools — 2nd place, North-Greece National Finals**, Thessaloniki (2026), STEM engineering competition (team Gorgon)
 - 🎤 **TED-Ed Student Talk — "One Shot, One Choice"** (in English), TED-Ed Student Conference, Thessaloniki (April 2026)
 - ➗ **Hellenic Mathematical Society competition distinctions (έπαινοι)**: "Thales" (2025), "Pythagoras" (2025), "Kostas Zervos" (2024)
@@ -22,7 +21,7 @@ Secondary-school student in **Corfu, Greece**, focused on **mathematics, physics
 ## Education
 
 - **5th Gymnasium of Corfu (5ο Γυμνάσιο Κέρκυρας)** — top of class performance: final average **19.9/20 ("Άριστα")** in 2025–26 and **19.8/20** in 2024–25, with 20/20 in Mathematics and Computer Science
-- **Selected — 3rd Balkan Student Summer School: "Artificial Intelligence in Science"** (Balkan Physical Union / EPS-supported, Thessaloniki, August 2026) — invitation extended to national Astronomy-competition prizewinners
+- **Selected — 3rd Balkan Student Summer School: "Artificial Intelligence in Science"** (Balkan Physical Union / EPS-supported, Thessaloniki, August 2026) — invitation extended to national Physics-competition ("Aristarchos") prizewinners
 - **Applicant — COMPOS, University of Oxford** online Mathematics & Physics enrichment programme (2026–27 cycle)
 
 ## Languages & Certifications
@@ -39,7 +38,7 @@ Secondary-school student in **Corfu, Greece**, focused on **mathematics, physics
 
 ## Interests
 
-Basketball (club player, regional development-squad call-ups) · chess · piano · astronomy
+Basketball (club player, regional development-squad call-ups) · chess · piano
 
 ---
 

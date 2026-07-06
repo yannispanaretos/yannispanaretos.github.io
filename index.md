@@ -16,7 +16,6 @@ Secondary-school student in **Corfu, Greece** (born 2012), focused on **mathemat
 - 🎤 **TED-Ed Student Talk — ["One Shot, One Choice"](https://youtu.be/fY9rNBrKUzk)** (in English), TED-Ed Student Conference, Thessaloniki (April 2026), prepared through the TED-Ed Student Talks programme at [Andrioti School](https://www.andrioti.gr) — [watch the talk](https://youtu.be/fY9rNBrKUzk)
 - ➗ **[Hellenic Mathematical Society](https://www.hms.gr) competition distinctions (έπαινοι)**: "Thales" (2025), "Pythagoras" (2025), "Kostas Zervos" (2024)
 - 🎖 **Award of Progress (Αριστείο Προόδου)** — Greek Ministry of Education excellence award (2025)
-- ♟ Competitor, **Panhellenic Student Chess Championships**
 
 ## Education
 
@@ -39,7 +38,9 @@ Secondary-school student in **Corfu, Greece** (born 2012), focused on **mathemat
 
 ## Interests
 
-**Basketball** — playing since the age of 6; club player with **Ν.Α.Ο. Nafsithoos (Ναυσίθοος), Corfu**, competing in regional championships since age 13, selected for the regional (ΕΣΚΑΒΔΕ) development squad, and a member of the club's **men's team since 2025** · **chess** · **piano**
+- **Basketball** — playing since the age of 6; club player with **Ν.Α.Ο. Nafsithoos (Ναυσίθοος), Corfu**, competing in regional championships since age 13, selected for the regional (ΕΣΚΑΒΔΕ) development squad, and a member of the club's **men's team since 2025**
+- **Chess** — **FIDE-rated player** ([FIDE ID 42118930](https://ratings.fide.com/profile/42118930), Elo 1522 standard / 1494 rapid); has competed for a local Corfu chess club and in Panhellenic student championships
+- **Piano & music theory** — lessons since 2020
 
 ---
 

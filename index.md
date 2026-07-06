@@ -26,7 +26,7 @@ Secondary-school student in **Corfu, Greece**, focused on **mathematics, physics
 
 ## Languages & Certifications
 
-- **English** — [Cambridge **FCE (B2 First)**](https://www.cambridgeenglish.org/exams-and-tests/first/), 2025 · currently preparing for [**ECPE (C2)**](https://michiganassessment.org/test-takers/tests/ecpe/) and **GCSE English Language**
+- **English** — [Cambridge **FCE (B2 First)**](https://www.cambridgeenglish.org/exams-and-tests/first/), 2025 · [**ECPE (C2, Michigan)**](https://michiganassessment.org/test-takers/tests/ecpe/) and **GCSE English Language** exams taken (2026) — results pending
 - **French** — **DELF A2** (2026)
 - **Greek** — native
 - In progress: **GCSE Mathematics, Physics and Computer Science**

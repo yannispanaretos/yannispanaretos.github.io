@@ -5,7 +5,7 @@ title: Yannis (Ioannis) Panaretos
 
 # Yannis (Ioannis) Panaretos
 
-Secondary-school student in **Corfu, Greece**, focused on **mathematics, physics and computer science**. Entering the final year of Gymnasio (equivalent to UK Year 10) in September 2026. Aiming for university studies in the sciences in the UK or US.
+Secondary-school student in **Corfu, Greece** (born 2012), focused on **mathematics, physics and computer science**. Entering the final year of Gymnasio (equivalent to UK Year 10) in September 2026. Aiming for university studies in the sciences in the UK or US.
 
 ---
 

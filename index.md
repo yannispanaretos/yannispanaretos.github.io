@@ -13,7 +13,7 @@ Secondary-school student in **Corfu, Greece**, focused on **mathematics, physics
 
 - 🏆 **1st Prize — "Aristarchos" Panhellenic Physics Competition (Union of Greek Physicists / ΕΕΦ), 3rd & Final Phase** (2026) · ranked **16th nationally**
 - 🏎 **F1 in Schools — 2nd place, North-Greece National Finals**, Thessaloniki (2026), STEM engineering competition (team Gorgon)
-- 🎤 **TED-Ed Student Talk — "One Shot, One Choice"** (in English), TED-Ed Student Conference, Thessaloniki (April 2026)
+- 🎤 **TED-Ed Student Talk — ["One Shot, One Choice"](https://youtu.be/fY9rNBrKUzk)** (in English), TED-Ed Student Conference, Thessaloniki (April 2026) — [watch the talk](https://youtu.be/fY9rNBrKUzk)
 - ➗ **Hellenic Mathematical Society competition distinctions (έπαινοι)**: "Thales" (2025), "Pythagoras" (2025), "Kostas Zervos" (2024)
 - 🎖 **Award of Progress (Αριστείο Προόδου)** — Greek Ministry of Education excellence award (2025)
 - ♟ Competitor, **Panhellenic Student Chess Championships**

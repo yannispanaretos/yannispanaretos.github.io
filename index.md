@@ -7,6 +7,8 @@ title: Yannis (Ioannis) Panaretos
 
 Secondary-school student in **Corfu, Greece** (born 2012), focused on **mathematics, physics and computer science**. Entering the final year of Gymnasio (equivalent to UK Year 10) in September 2026. Aiming for university studies in the sciences in the UK or US.
 
+> *I am a 14-year-old student from Corfu, Greece, and my dream is to study in the US or the UK. I haven't settled on a single field yet — it will be something in STEM, physics, mathematics or computer science — and for now I'm deliberately keeping every door open, so that when I do choose, it will be a real choice. I take part in competitions not to win and not to conquer, but to see how far my thinking can go, and to meet people who are chasing the same questions I am.*
+
 ---
 
 ## Achievements & Distinctions

@@ -22,6 +22,7 @@ Secondary-school student in **Corfu, Greece** (born 2012), focused on **mathemat
 
 - **[5th Gymnasium of Corfu](http://5gym-kerkyr.ker.sch.gr) (5ο Γυμνάσιο Κέρκυρας)** — top of class performance: final average **19.9/20 ("Άριστα")** in 2025–26 and **19.8/20** in 2024–25, with 20/20 in Mathematics and Computer Science
 - **Selected — 3rd Balkan Student Summer School: "Artificial Intelligence in Science"** (Balkan Physical Union / EPS-supported; [American Farm School](https://www.afs.edu.gr), Thessaloniki, August 2026) — invitation extended to national Physics-competition ("Aristarchos") prizewinners
+- **Qualified — Johns Hopkins University Center for Talented Youth ([CTY Greece](https://www.cty-greece.gr))**: passed both the Verbal and Quantitative sections of the above-grade-level **SCAT Advanced** test (February 2025)
 - **Applicant — [COMPOS, University of Oxford](https://compos.web.ox.ac.uk)** online Mathematics & Physics enrichment programme (2026–27 cycle)
 
 ## Languages & Certifications

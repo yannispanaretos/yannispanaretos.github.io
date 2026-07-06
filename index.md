@@ -21,8 +21,8 @@ Secondary-school student in **Corfu, Greece**, focused on **mathematics, physics
 
 ## Education
 
-- **Gymnasio (lower secondary), Corfu** — top of class performance: final average **19.9/20 ("Άριστα")** in 2025–26 and **19.8/20** in 2024–25, with 20/20 in Mathematics and Computer Science
-- **Selected — 3rd Balkan Student Summer School: “Artificial Intelligence in Science”** (Balkan Physical Union / EPS-supported, Thessaloniki, August 2026) — invitation extended to national Astronomy-competition prizewinners
+- **5th Gymnasium of Corfu (5ο Γυμνάσιο Κέρκυρας)** — top of class performance: final average **19.9/20 ("Άριστα")** in 2025–26 and **19.8/20** in 2024–25, with 20/20 in Mathematics and Computer Science
+- **Selected — 3rd Balkan Student Summer School: "Artificial Intelligence in Science"** (Balkan Physical Union / EPS-supported, Thessaloniki, August 2026) — invitation extended to national Astronomy-competition prizewinners
 - **Applicant — COMPOS, University of Oxford** online Mathematics & Physics enrichment programme (2026–27 cycle)
 
 ## Languages & Certifications
@@ -43,4 +43,4 @@ Basketball (club player, regional development-squad call-ups) · chess · piano 
 
 ---
 
-*Contact via [alexandros.panaretos@gmail.com](mailto:alexandros.panaretos@gmail.com) (parent).*
+*Contact: [yannis.panaretos@gmail.com](mailto:yannis.panaretos@gmail.com)*

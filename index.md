@@ -11,22 +11,22 @@ Secondary-school student in **Corfu, Greece**, focused on **mathematics, physics
 
 ## Achievements & Distinctions
 
-- 🏆 **1st Prize — "Aristarchos" Panhellenic Physics Competition (Union of Greek Physicists / ΕΕΦ), 3rd & Final Phase** (2026) · ranked **16th nationally**
-- 🏎 **F1 in Schools — 2nd place, North-Greece National Finals**, Thessaloniki (2026), STEM engineering competition (team Gorgon)
+- 🏆 **1st Prize — "Aristarchos" Panhellenic Physics Competition ([Union of Greek Physicists / ΕΕΦ](https://www.eef.gr)), 3rd & Final Phase** (2026) · ranked **16th nationally**
+- 🏎 **[F1 in Schools](https://www.f1inschools.com) — 2nd place, North-Greece National Finals**, Thessaloniki (2026), STEM engineering competition (team Gorgon)
 - 🎤 **TED-Ed Student Talk — ["One Shot, One Choice"](https://youtu.be/fY9rNBrKUzk)** (in English), TED-Ed Student Conference, Thessaloniki (April 2026) — [watch the talk](https://youtu.be/fY9rNBrKUzk)
-- ➗ **Hellenic Mathematical Society competition distinctions (έπαινοι)**: "Thales" (2025), "Pythagoras" (2025), "Kostas Zervos" (2024)
+- ➗ **[Hellenic Mathematical Society](https://www.hms.gr) competition distinctions (έπαινοι)**: "Thales" (2025), "Pythagoras" (2025), "Kostas Zervos" (2024)
 - 🎖 **Award of Progress (Αριστείο Προόδου)** — Greek Ministry of Education excellence award (2025)
 - ♟ Competitor, **Panhellenic Student Chess Championships**
 
 ## Education
 
-- **5th Gymnasium of Corfu (5ο Γυμνάσιο Κέρκυρας)** — top of class performance: final average **19.9/20 ("Άριστα")** in 2025–26 and **19.8/20** in 2024–25, with 20/20 in Mathematics and Computer Science
-- **Selected — 3rd Balkan Student Summer School: "Artificial Intelligence in Science"** (Balkan Physical Union / EPS-supported, Thessaloniki, August 2026) — invitation extended to national Physics-competition ("Aristarchos") prizewinners
-- **Applicant — COMPOS, University of Oxford** online Mathematics & Physics enrichment programme (2026–27 cycle)
+- **[5th Gymnasium of Corfu](http://5gym-kerkyr.ker.sch.gr) (5ο Γυμνάσιο Κέρκυρας)** — top of class performance: final average **19.9/20 ("Άριστα")** in 2025–26 and **19.8/20** in 2024–25, with 20/20 in Mathematics and Computer Science
+- **Selected — 3rd Balkan Student Summer School: "Artificial Intelligence in Science"** (Balkan Physical Union / EPS-supported; [American Farm School](https://www.afs.edu.gr), Thessaloniki, August 2026) — invitation extended to national Physics-competition ("Aristarchos") prizewinners
+- **Applicant — [COMPOS, University of Oxford](https://compos.web.ox.ac.uk)** online Mathematics & Physics enrichment programme (2026–27 cycle)
 
 ## Languages & Certifications
 
-- **English** — Cambridge **FCE (B2 First)**, 2025 · currently preparing for **ECPE (C2)** and **GCSE English Language**
+- **English** — [Cambridge **FCE (B2 First)**](https://www.cambridgeenglish.org/exams-and-tests/first/), 2025 · currently preparing for [**ECPE (C2)**](https://michiganassessment.org/test-takers/tests/ecpe/) and **GCSE English Language**
 - **French** — **DELF A2** (2026)
 - **Greek** — native
 - In progress: **GCSE Mathematics, Physics and Computer Science**
@@ -34,7 +34,7 @@ Secondary-school student in **Corfu, Greece**, focused on **mathematics, physics
 ## Programming & Projects
 
 - **Python** — self-study since 2025 (problem-solving and small projects); currently preparing a short presentation on **Artificial Intelligence in Science** for the Balkan Summer School
-- Coding projects will be published here as they mature — watch this space.
+- Code lives on GitHub: **[github.com/yannispanaretos](https://github.com/yannispanaretos)** — projects will be published as they mature.
 
 ## Interests
 

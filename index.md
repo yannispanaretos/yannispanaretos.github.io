@@ -38,7 +38,7 @@ Secondary-school student in **Corfu, Greece**, focused on **mathematics, physics
 
 ## Interests
 
-**Basketball** — club player with **Ν.Α.Ο. Nafsithoos (Ναυσίθοος), Corfu** since 2023, competing across three age groups including the men's squad, with regional (ΕΣΚΑΒΔΕ) development-squad call-ups · **chess** · **piano**
+**Basketball** — playing since the age of 6; club player with **Ν.Α.Ο. Nafsithoos (Ναυσίθοος), Corfu**, competing in regional championships since age 13, selected for the regional (ΕΣΚΑΒΔΕ) development squad, and a member of the club's **men's team since 2025** · **chess** · **piano**
 
 ---
 

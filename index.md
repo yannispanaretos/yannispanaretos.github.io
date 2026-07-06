@@ -26,9 +26,9 @@ Secondary-school student in **Corfu, Greece** (born 2012), focused on **mathemat
 
 ## Languages & Certifications
 
-- **English** — [Cambridge **FCE (B2 First)**](https://www.cambridgeenglish.org/exams-and-tests/first/), 2025 · [**ECPE (C2, Michigan)**](https://michiganassessment.org/test-takers/tests/ecpe/) and **GCSE English Language** exams taken (2026) — results pending
-- **French** — **DELF A2** (2026)
-- **Greek** — native
+- **English** — [Cambridge FCE / B2 First](https://www.cambridgeenglish.org/exams-and-tests/first/) — **CEFR level B2** (2025) · [Michigan ECPE](https://michiganassessment.org/test-takers/tests/ecpe/) — **CEFR level C2 (proficiency)** and **GCSE English Language**: exams taken (2026), results pending
+- **French** — DELF — **CEFR level A2** (2026)
+- **Greek** — **native**
 - In progress: **GCSE Mathematics, Physics and Computer Science**
 
 ## Programming & Projects
@@ -39,7 +39,7 @@ Secondary-school student in **Corfu, Greece** (born 2012), focused on **mathemat
 ## Interests
 
 - **Basketball** — playing since the age of 6; club player with **Ν.Α.Ο. Nafsithoos (Ναυσίθοος), Corfu**, competing in regional championships since age 13, selected for the regional (ΕΣΚΑΒΔΕ) development squad, and a member of the club's **men's team since 2025**
-- **Chess** — **FIDE-rated player** ([FIDE ID 42118930](https://ratings.fide.com/profile/42118930), Elo 1522 standard / 1494 rapid); has competed for a local Corfu chess club and in Panhellenic student championships
+- **Chess** — **FIDE-rated player** ([FIDE ID 42118930](https://ratings.fide.com/profile/42118930), Elo 1522 standard / 1494 rapid); has competed for the **ΣΠΖ Κέρκυρας** chess club (Corfu) and in Panhellenic student championships
 - **Piano & music theory** — lessons since 2020
 
 ---

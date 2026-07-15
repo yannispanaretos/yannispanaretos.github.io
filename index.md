@@ -28,7 +28,7 @@ Secondary-school student in **Corfu, Greece** (born 2012), focused on **mathemat
 
 ## Languages & Certifications
 
-- **English** — [Cambridge FCE / B2 First](https://www.cambridgeenglish.org/exams-and-tests/first/) — **CEFR level B2** (2025) · [Michigan ECPE](https://michiganassessment.org/test-takers/tests/ecpe/) — **CEFR level C2 (proficiency)** and **GCSE English Language**: exams taken (2026), results pending
+- **English** — [Cambridge FCE / B2 First](https://www.cambridgeenglish.org/exams-and-tests/first/) — **CEFR level B2** (2025) · [Michigan ECPE](https://michiganassessment.org/test-takers/tests/ecpe/) — **CEFR level C2 (proficiency)** — **Pass (2026)** · **GCSE English Language**: exam taken (2026), result pending
 - **French** — DELF — **CEFR level A2** (2026)
 - **Greek** — **native**
 - In progress: **GCSE Mathematics, Physics and Computer Science**

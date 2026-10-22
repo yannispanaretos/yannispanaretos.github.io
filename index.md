@@ -22,9 +22,8 @@ Secondary-school student in **Corfu, Greece** (born 2012), focused on **mathemat
 ## Education
 
 - **[5th Gymnasium of Corfu](http://5gym-kerkyr.ker.sch.gr) (5ο Γυμνάσιο Κέρκυρας)** — top-of-class performance: final average **19.9/20 ("Άριστα")** in 2025–26 and **19.8/20** in 2024–25, with 20/20 in Mathematics and Computer Science in 2025–26
-- **Selected — 3rd Balkan Student Summer School: "Artificial Intelligence in Science"** (Balkan Physical Union / EPS-supported; [American Farm School](https://www.afs.edu.gr), Thessaloniki, August 2026) — invitation extended to national Physics-competition ("Aristarchos") prizewinners; gave a student presentation, **"Can AI Discover the Laws of Physics?"**, at the NOESIS Science Centre, Thessaloniki
+- **Selected — 3rd Balkan Student Summer School: "Artificial Intelligence in Science"** (Balkan Physical Union / EPS-supported; [American Farm School](https://www.afs.edu.gr), Thessaloniki, August 2026) — invitation extended to national Physics-competition ("Aristarchos") prizewinners; gave a student presentation in English, **"Can AI Discover the Laws of Physics?"**, at the NOESIS Science Centre, Thessaloniki
 - **Qualified — Johns Hopkins University Center for Talented Youth ([CTY Greece](https://www.cty-greece.gr))**: passed both the Verbal and Quantitative sections of the above-grade-level **SCAT Advanced** test (February 2025)
-- **Applicant — [COMPOS, University of Oxford](https://compos.web.ox.ac.uk)** online Mathematics & Physics enrichment programme (2026–27 cycle)
 
 ## Languages & Certifications
 
@@ -35,7 +34,7 @@ Secondary-school student in **Corfu, Greece** (born 2012), focused on **mathemat
 
 ## Programming & Projects
 
-- **Python** — self-study since 2025 (problem-solving and small projects); first public talk on AI: **"Can AI Discover the Laws of Physics?"**, presented at the Balkan Summer School on AI for Science (August 2026)
+- **Python** — self-study since 2025 (problem-solving and small projects); first public talk on AI, in English: **"Can AI Discover the Laws of Physics?"**, presented at the Balkan Summer School on AI for Science (August 2026)
 - Code lives on GitHub: **[github.com/yannispanaretos](https://github.com/yannispanaretos)** — projects will be published as they mature.
 
 ## Interests

@@ -27,9 +27,11 @@ the only scope that would permit permanently deleting mail.
 
 ## Where my data goes
 
-Nowhere. The tool has no server, no analytics and no telemetry. It talks only
-to Google's APIs, and keeps its credentials, logs and downloaded files in
-`~/.gmail-mcp/` with owner-only filesystem permissions.
+The tool has no server, no analytics and no telemetry. It talks to Google's
+APIs and keeps its credentials, logs and downloaded files in `~/.gmail-mcp/`
+with owner-only filesystem permissions. Mail that the coding agent reads is
+passed to the agent's AI model provider for processing, under that provider's
+terms.
 
 ## Read more
 

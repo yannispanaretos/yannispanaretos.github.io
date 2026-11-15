@@ -17,14 +17,18 @@ Secondary-school student in **Corfu, Greece** (born 2012), focused on **mathemat
 
 - 🏆 **1st Prize — "Aristarchos" Panhellenic Physics Competition ([Union of Greek Physicists / ΕΕΦ](https://www.eef.gr)), 3rd & Final Phase** (2026) · ranked **16th nationally**
 - 🏎 **[F1 in Schools](https://www.stemracing.com) — 2nd place, North-Greece National Finals**, Thessaloniki (2026), STEM engineering competition ([Team Gorgon](https://gorgon-f1.gr) of [Andrioti School](https://www.andrioti.gr) — Corfu's first F1 in Schools team)
-- 🎤 **TED-Ed Student Talk — ["One Shot, One Choice"](https://youtu.be/fY9rNBrKUzk)** (in English), TED-Ed Student Conference, Thessaloniki (April 2026), prepared through the TED-Ed Student Talks programme at [Andrioti School](https://www.andrioti.gr)
 - ➗ **[Hellenic Mathematical Society](https://www.hms.gr) competition distinctions (έπαινοι)**: "Thales" (2025), "Pythagoras" (2025), "Kostas Zervos" (2024)
 - 🎖 **Award of Progress (Αριστείο Προόδου)** — Greek Ministry of Education excellence award (2025)
+
+## Talks & Presentations
+
+- 🎤 **"Can AI Discover the Laws of Physics?"** (in English) — student presentation at the 3rd Balkan Student Summer School "Artificial Intelligence in Science", NOESIS Science Centre, Thessaloniki (August 2026) — on symbolic regression (AI that finds equations from data), applied to the pendulum
+- 🎤 **TED-Ed Student Talk — ["One Shot, One Choice"](https://youtu.be/fY9rNBrKUzk)** (in English) — TED-Ed Student Conference, Thessaloniki (April 2026), prepared through the TED-Ed Student Talks programme at [Andrioti School](https://www.andrioti.gr)
 
 ## Education
 
 - **[5th Gymnasium of Corfu](http://5gym-kerkyr.ker.sch.gr) (5ο Γυμνάσιο Κέρκυρας)** — top-of-class performance: final average **19.9/20 ("Άριστα")** in 2025–26 and **19.8/20** in 2024–25, with 20/20 in Mathematics and Computer Science in 2025–26
-- **Selected — 3rd Balkan Student Summer School: "Artificial Intelligence in Science"** (Balkan Physical Union / EPS-supported; [American Farm School](https://www.afs.edu.gr), Thessaloniki, August 2026) — invitation extended to national Physics-competition ("Aristarchos") prizewinners; gave a student presentation in English, **"Can AI Discover the Laws of Physics?"**, at the NOESIS Science Centre, Thessaloniki
+- **Selected — 3rd Balkan Student Summer School: "Artificial Intelligence in Science"** (Balkan Physical Union / EPS-supported; [American Farm School](https://www.afs.edu.gr), Thessaloniki, August 2026) — invitation extended to national Physics-competition ("Aristarchos") prizewinners; gave a student presentation (see Talks & Presentations)
 - **Qualified — Johns Hopkins University Center for Talented Youth ([CTY Greece](https://www.cty-greece.gr))**: passed both the Verbal and Quantitative sections of the above-grade-level **SCAT Advanced** test (February 2025)
 
 ## Languages & Certifications
@@ -36,7 +40,7 @@ Secondary-school student in **Corfu, Greece** (born 2012), focused on **mathemat
 
 ## Programming & Projects
 
-- **Python** — self-study since 2025 (problem-solving and small projects); first public talk on AI, in English: **"Can AI Discover the Laws of Physics?"**, presented at the Balkan Summer School on AI for Science (August 2026)
+- **Python** — self-study since 2025 (problem-solving and small projects); first public talk on AI in August 2026 (see Talks & Presentations)
 - Code lives on GitHub: **[github.com/yannispanaretos](https://github.com/yannispanaretos)** — projects will be published as they mature.
 
 ## Interests

@@ -48,4 +48,3 @@ Secondary-school student in **Corfu, Greece** (born 2012), focused on **mathemat
 ---
 
 *Contact: [yannis.panaretos@gmail.com](mailto:yannis.panaretos@gmail.com)*
-*Tool: [Local Gmail MCP](/gmail-mcp/) — a personal, locally-run Gmail helper for my own account ([privacy policy](/gmail-mcp/privacy/))*

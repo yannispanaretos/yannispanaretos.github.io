@@ -6,7 +6,7 @@ permalink: /gmail-mcp/privacy/
 
 # Privacy Policy — Local Gmail MCP
 
-**Last updated: 13 November 2026**
+**Last updated: 15 November 2026**
 
 This policy describes how *Local Gmail MCP* ("the tool") handles data. The tool
 is a personal, locally-run program used by
@@ -33,14 +33,18 @@ them to Trash.
 
 ## Where your data goes
 
-**Nowhere.** All mail and all credentials stay on the machine the tool runs on.
+Credentials and the audit log never leave the machine the tool runs on. Mail
+content goes to two places only: Google, and the AI model provider behind the
+coding agent.
 
 - Mail content is read directly from the Gmail API over an encrypted
   (HTTPS/TLS) connection to Google, and is held only in the running process's
   memory and in the local audit log described below.
-- The tool has no server, no analytics, no telemetry, and no third-party
-  service of any kind. It makes no network request other than to Google's
-  APIs.
+- The tool itself has no server, no analytics and no telemetry, and makes no
+  network request other than to Google's APIs.
+- The coding agent that uses the tool runs on an AI model hosted by its
+  provider. Any mail the agent reads is sent to that provider for processing
+  and is handled under the provider's own terms and privacy policy.
 - The tool does not send mail anywhere except to the Gmail account itself and
   to the recipients the owner explicitly asks it to write to.
 
@@ -62,8 +66,9 @@ permissions, and can be revoked at any time — see below.
 
 ## Sharing
 
-None. The tool shares nothing with the owner, with Google beyond the API calls
-the permissions above describe, or with anyone else. Google receives the
+The tool sells and shares nothing. Beyond the API calls the permissions above
+describe, and the mail the coding agent reads (see above), no data goes to
+anyone. Google receives the
 requests the tool makes and applies its own
 [Privacy Policy](https://policies.google.com/privacy) to them.
 

@@ -22,6 +22,7 @@ Secondary-school student in **Corfu, Greece** (born 2012), focused on **mathemat
 
 ## Talks & Presentations
 
+- 🎤 **"How Neural Networks Work and How They Help Us in Practice"** (in Greek) — *upcoming, 16 November 2026* — co-speaker with physicist P. Mourouzis at the public lecture *"What Is Artificial Intelligence, Anyway? How Do Quantum Computers Work?"*, Astronomical Society of Corfu (centenary 1927–2027), Ionian University amphitheatre, Corfu, with live demos of digit-recognition and voice-isolation apps
 - 🎤 **"Can AI Discover the Laws of Physics?"** (in English) — student presentation at the 3rd Balkan Student Summer School "Artificial Intelligence in Science", NOESIS Science Centre, Thessaloniki (August 2026) — on symbolic regression (AI that finds equations from data), applied to the pendulum
 - 🎤 **TED-Ed Student Talk — ["One Shot, One Choice"](https://youtu.be/fY9rNBrKUzk)** (in English) — TED-Ed Student Conference, Thessaloniki (April 2026), prepared through the TED-Ed Student Talks programme at [Andrioti School](https://www.andrioti.gr)
 
